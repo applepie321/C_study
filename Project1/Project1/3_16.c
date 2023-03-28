@@ -2,14 +2,14 @@
 
 void main()
 {
-	int input, num;
+	int input = 0, num = 0;
 
-	printf("입력진수 결정 <1>10 <2>16 <3>8 : %d \n", input);
+	printf("입력진수 결정 <1>10 <2>16 <3>8 : \n", input);
 	scanf_s("%d", &input);
 
 	if (input == 1)
 	{
-		printf("값 입력 : %d \n", num);
+		printf("값 입력 : \n", num);
 		scanf_s("%d", &num);
 
 		printf("10진수 ==> %d \n", num);
