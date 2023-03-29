@@ -1,0 +1,15 @@
+Here are some good resources for learning C programming:
+
+Codecademy: Codecademy offers a free course on C programming that covers the basics of the language.
+
+Stack Overflow: Stack Overflow is a great resource for finding answers to specific questions about C programming.
+
+Programiz: Programiz offers a comprehensive tutorial on C programming that covers everything from basic syntax to advanced topics.
+
+K&R, Second Edition: The book ¡°The C Programming Language¡± by Brian Kernighan and Dennis Ritchie (also known as K&R) is a classic text on C programming that is still relevant today.
+
+CS50x Introduction to Computer Science: This free online course from Harvard University covers the basics of computer science and includes a section on C programming.
+
+Remember that everyone learns differently, so it¡¯s important to find the resources that work best for you. Don¡¯t be afraid to try different resources until you find the ones that work best for you!
+
+I hope this helps! Let me know if you have any other questions or if there¡¯s anything else I can help you with.
