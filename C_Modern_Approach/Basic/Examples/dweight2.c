@@ -13,5 +13,6 @@ int main(void)
     scanf("%d", &height);
     printf("Enter length of box: ");
     scanf("%d", &length);
-    
+    printf("Enter width of box: ");
+    scanf("%d", &width);
 }
