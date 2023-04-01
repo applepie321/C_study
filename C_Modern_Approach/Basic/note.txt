@@ -1,0 +1,4 @@
+int main(void) /*winged comment*/ (날개 주석)
+
+initialization (초기화) 
+int height =8;    8 = initializer (초기값)
